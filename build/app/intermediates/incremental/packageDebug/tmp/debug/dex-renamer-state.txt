@@ -1,0 +1,4 @@
+#Thu Jul 30 00:28:17 JST 2020
+base.0=/Users/nguyenhiep/Documents/flutter-bloc-pattern/flutter_bloc_pattern/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
