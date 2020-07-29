@@ -1,4 +1,4 @@
-# hello_world_flutter
+# Flutter Bloc Pattern
 
 A new Flutter project.
 
